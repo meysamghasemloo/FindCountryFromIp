@@ -1,6 +1,7 @@
 {
     "name": "meysam/find-country-from-ip",
     "description": "find country from ip",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Meysam\\FindCountryFromIp\\": "src/"
