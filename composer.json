@@ -1,0 +1,18 @@
+{
+    "name": "meysam/find-country-from-ip",
+    "description": "find country from ip",
+    "autoload": {
+        "psr-4": {
+            "Meysam\\FindCountryFromIp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meysam Ghasemloo"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "illuminate/support": ">=5.1"
+    }
+}
